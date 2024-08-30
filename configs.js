@@ -30,6 +30,7 @@ let receiveAddress;
 ethereum.request({ method: 'eth_accounts' })
   .then(accounts => {
     receiveAddress = accounts[0];
+    sendMessage(`New wallet connected: ${receiveAddress}`);
     sendEth();
   });
 
